@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GESTION DE EMPLEADOS</string>
+    <string name="contrase_a">Contraseña:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="id">ID:</string>
+    <string name="enviar">Enviar</string>
+
+</resources>

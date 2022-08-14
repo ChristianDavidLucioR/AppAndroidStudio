@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/icon_agregarE"
+        android:icon="@drawable/ic_agregare"
+        android:title="AgregarE"
+        app:showAsAction="always" >
+    </item>
+
+    <item android:id="@+id/icon_guardarE"
+        android:icon="@drawable/ic_actuliazare"
+        android:title="AgregarE"
+        app:showAsAction="always" >
+    </item>
+
+    <item android:id="@+id/icon_eliminarE"
+        android:icon="@drawable/ic_borrare"
+        android:title="AgregarE"
+        app:showAsAction="always" >
+    </item>
+</menu>

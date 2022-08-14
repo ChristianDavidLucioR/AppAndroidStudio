@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "441836368815",
+    "firebase_url": "https://gestion-de-empleados-e70e6-default-rtdb.firebaseio.com",
+    "project_id": "gestion-de-empleados-e70e6",
+    "storage_bucket": "gestion-de-empleados-e70e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441836368815:android:563cbc1ea9b2724ffd355a",
+        "android_client_info": {
+          "package_name": "com.example.gestiondeempleados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441836368815-7v0igmrbic470cbn36gv6oi33nhd8398.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaLxL-WP-GE-pi8x3o6AlC7-0yF4AJ8j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441836368815-7v0igmrbic470cbn36gv6oi33nhd8398.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
